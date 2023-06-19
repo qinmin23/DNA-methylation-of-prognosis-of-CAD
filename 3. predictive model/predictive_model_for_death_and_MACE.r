@@ -1,4 +1,4 @@
-##predictive model with 1000 5-fold cross validation
+##predictive model with 5-fold 1000 times cross validation
 library(survminer)
 library(randomForest)
 library(survival)
