@@ -1,5 +1,4 @@
 ##predictive model with 1000 5-fold cross validation
-setwd("D:\\qm课题\\DNA甲基化\\毕业论文\\5-predictive model\\plot")
 library(survminer)
 library(randomForest)
 library(survival)
